@@ -1,6 +1,10 @@
-# Game-of-life
+# Game of Life:
 ![](input_scrn.png)
-# 1081: Game of Life:
+# What's Game of Life?
+The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
+It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.\
+More info avaiable here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 To tackle this problem, I’ve decided that I will use multiple functions in this case 4 each des
 out different objectives.
 1. **populateArray** – setup array based on user input and convert it to int.
