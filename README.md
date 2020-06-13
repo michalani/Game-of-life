@@ -1,5 +1,5 @@
 # Game-of-life
-
+![](input_scrn.png)
 # 1081: Game of Life:
 To tackle this problem, I’ve decided that I will use multiple functions in this case 4 each des
 out different objectives.
